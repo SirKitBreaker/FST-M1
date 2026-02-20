@@ -117,15 +117,15 @@
 
 | # | Activity | Expected to Upload |
 |---| -------- | ------------------ |
-| 1 | Project Activity | .java file |
-| 2 | Project Activity | .java file |
-| 3 | Project Activity | .java file |
-| 4 | Project Activity | .java file |
-| 5 | Project Activity | .java file |
-| 6 | Project Activity | .java file |
-| 7 | Project Activity | .java file |
-| 8 | Project Activity | .java file |
-| 9 | Project Activity | .java file |
+| 1 | Project Activity 1 | .java file |
+| 2 | Project Activity 2 | .java file |
+| 3 | Project Activity 3 | .java file |
+| 4 | Project Activity 4 | .java file |
+| 5 | Project Activity 5 | .java file |
+| 6 | Project Activity 6 | .java file |
+| 7 | Project Activity 7 | .java file |
+| 8 | Project Activity 8 | .java file |
+| 9 | Project Activity 9 | .java file |
 
 
 ### API Testing (ReadyAPI)
